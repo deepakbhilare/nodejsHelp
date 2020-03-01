@@ -1,0 +1,5 @@
+.vscode
+.mocha
+.chai
+node_modules/*
+coverage/*
