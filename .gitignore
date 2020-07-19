@@ -3,3 +3,4 @@
 .chai
 node_modules/*
 coverage/*
+node_modules/*
